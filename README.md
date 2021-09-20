@@ -1,3 +1,16 @@
+# ScreenShots
+
+# Employee Management App 
+![Capture](https://user-images.githubusercontent.com/52322268/134049372-364bd3cb-f7fc-472f-b30e-49f884ab46a2.PNG)
+# Add Employee
+![Capture1](https://user-images.githubusercontent.com/52322268/134049392-de9b15a7-5275-494d-bee8-7cad68c302b5.PNG)
+# Update Employee
+![Capture3](https://user-images.githubusercontent.com/52322268/134049395-9bd6d220-ea71-40a8-8dc8-3c6cc228e5f0.PNG)
+# Delete Employee
+![Capture4](https://user-images.githubusercontent.com/52322268/134049397-a473911e-ff77-4455-b8a3-6b9fcbb58bcf.PNG)
+# View Employee
+![Capture5](https://user-images.githubusercontent.com/52322268/134049402-52334c03-a84a-49ce-97ef-11c3db213e54.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
