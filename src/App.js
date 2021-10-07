@@ -5,7 +5,7 @@ import HeaderComponent from "./components/HeaderComponent";
 import FooterComponent from "./components/FooterComponent";
 import ListEmployeeComponent from "./components/ListEmployeeComponent";
 import CreateEmployeeComponent from "./components/CreateEmployeeComponent";
-import UpdateEmployeeComponent from "./components/UpdateEmployeeComponent";
+//import UpdateEmployeeComponent from "./components/UpdateEmployeeComponent";
 import ViewEmployeeCompenent from "./components/ViewEmployeeComponent";
 function App() {
   return (

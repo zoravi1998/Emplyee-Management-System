@@ -1,5 +1,5 @@
 import axios from 'axios';
-const EMPLOYEE_API_BASE_URL="http://localhost:8180/api/v1/employees";
+const EMPLOYEE_API_BASE_URL="https://anujk270.loca.lt/employees";
 
 class EmployeeService{
 
