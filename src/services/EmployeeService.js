@@ -1,5 +1,5 @@
 import axios from 'axios';
-const EMPLOYEE_API_BASE_URL="https://https://alpine-theory-326917.el.r.appspot.com/employees";
+const EMPLOYEE_API_BASE_URL="https://alpine-theory-326917.el.r.appspot.com/employees";
 
 class EmployeeService{
 
