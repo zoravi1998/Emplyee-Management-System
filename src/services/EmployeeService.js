@@ -3,6 +3,9 @@ const EMPLOYEE_API_BASE_URL="https://alpine-theory-326917.el.r.appspot.com/emplo
 
 class EmployeeService{
 
+    getbaseUrl(){
+        return EMPLOYEE_API_BASE_URL;
+    }
     getEmployees(){
         return axios.get(EMPLOYEE_API_BASE_URL);
     }
